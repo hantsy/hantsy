@@ -1,6 +1,6 @@
 ### Hantsy Bai(@hantsy)
 
-I'm Hantsy - a freelancer from China. Previously I worked with varied teams around the world and helped many customers by pruducing cool stuffs, not limited to cook startup POCs and delivering large-scale distributed applications.
+I'm Hantsy - a freelancer from China. Previously I worked with varied teams around the world and helped many customers by pruducing cool stuffs, not limited to cooking startup POCs and delivering large-scale distributed applications.
 
 *Currently I am open for new opportunities.*
 
