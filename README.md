@@ -1,4 +1,14 @@
-### Hi there 👋, my name is Hantsy(@hantsy), a freelancer from China.  
+### Hantsy Bai(@hantsy)
+
+I'm Hantsy - a freelancer from China.  Previously I worked with varied teams around the world and helped many customers by building cool stuffs, including startup MVPs and large-scale distribubted applications.
+
+*Currently I am open for new chanllenege.*
+
+#### Getting in touch
+
+* [hantsy@gmail.com](mailto:hantsy@gmail.com)
+* [https://medium.com/@hantsy](https://medium.com/@hantsy)
+* [@hantsy](https://twitter.com/hantsy)
 
 <!--
 **hantsy/hantsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
