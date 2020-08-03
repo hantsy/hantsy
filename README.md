@@ -1,6 +1,6 @@
 ### Hantsy Bai(@hantsy)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hantsy&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hantsy&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 I'm Hantsy - a freelancer from China. Previously I worked with diverse teams around the world and helped numerous customers with professional service, not limited to coaching the team members,  cooking startup POCs and delivering large-scale distributed applications.
 
