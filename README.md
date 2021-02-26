@@ -1,7 +1,7 @@
 ### Hantsy Bai(@hantsy)
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hantsy&show_icons=true&theme=vue&hide_title=true&count_private=true" />
-<img style="margin-top:12px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hantsy&layout=compact" />
+
 
 I'm Hantsy - a freelancer from China. Previously I worked with diverse teams around the world and helped numerous customers with professional service, not limited to coaching the team members,  cooking startup POCs and delivering large-scale distributed applications.
 
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img style="margin-top:12px" align="elft" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hantsy&layout=compact" />
 <img style="margin-top:12px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hantsy&" alt="hantsy" />
