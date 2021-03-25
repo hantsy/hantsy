@@ -12,6 +12,7 @@ I'm Hantsy - a freelancer from China. Previously I worked with diverse teams aro
 * [hantsy@gmail.com](mailto:hantsy@gmail.com)
 * [https://medium.com/@hantsy](https://medium.com/@hantsy)
 * [@hantsy](https://twitter.com/hantsy)
+* [buy me a coffee](https://www.buymeacoffee.com/hantsy)😁
 
 <!--
 **hantsy/hantsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
