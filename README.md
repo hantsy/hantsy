@@ -1,6 +1,6 @@
 ### Hantsy Bai(@hantsy)
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hantsy&show_icons=true&theme=vue&hide_title=true&count_private=true&include_all_commits=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hantsy&show_icons=true&theme=vue&hide_title=true&count_private=true" />
 <img width="50%" style="padding:20px 0;" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=hantsy" alt="hantsy" />
 
  
