@@ -6,8 +6,6 @@
  
 I'm Hantsy - a freelancer from China. Previously I worked with diverse teams around the world and helped numerous customers with professional service, not limited to coaching the team members,  cooking startup POCs and delivering large-scale distributed applications.
 
-*Currently, I am available for new opportunities.*
-
 #### Getting in touch
 
 * [hantsy@gmail.com](mailto:hantsy@gmail.com)
