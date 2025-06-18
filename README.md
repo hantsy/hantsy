@@ -6,7 +6,7 @@
 </div>
 
 <div style="width:45%;float:left;display:inline-block">
-I'm Hantsy - a freelancer from China. Previously I worked with diverse teams around the world and helped numerous customers with professional service, not limited to coaching the team members,  cooking startup POCs and delivering large-scale distributed applications.
+I'm Hantsy - a freelancer from China. Previously, I worked with diverse teams around the world and helped numerous customers with professional services, including coaching team members, developing startup proof-of-concepts, and delivering large-scale distributed applications.
 
 #### Getting in touch
 
