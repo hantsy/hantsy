@@ -2,9 +2,9 @@
 
 <div style="width:45%;float:right;display:inline-block">
 <img width="50%" align="right" src="https://github-readme-stats-fast.vercel.app/api?username=hantsy&show_icons=true&theme=vue&hide_title=true&count_private=true" />
-<img width="50%" style="margin-top:5px;" align="right" src="https://github-readme-stats-fast.vercel.app/api/streak?username=hantsy" alt="hantsy" />
+<img width="50%" style="margin-top:5px;" align="right" src="https://github-readme-stats-fast.vercel.app/api/streak?username=hantsy&theme=vue" alt="hantsy" />
 </div>
-<img width="50%" style="margin-top:5px;" align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hantsy&layout=compact" alt="hantsy" />
+<img width="50%" style="margin-top:5px;" align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hantsy&layout=compact&theme=vue&hide_title=true" alt="hantsy" />
 </div>
 
 <div style="width:45%;float:left;display:inline-block">
