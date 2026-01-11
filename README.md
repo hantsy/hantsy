@@ -1,7 +1,7 @@
 ### Hantsy Bai(@hantsy)
 
 <div style="width:45%;float:right;display:inline-block">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hantsy&show_icons=true&theme=vue&hide_title=true&count_private=true" />
+<img width="50%" align="right" src="https://github-readme-stats-fast.vercel.app/api?username=hantsy&show_icons=true&theme=vue&hide_title=true&count_private=true" />
 <img width="50%" style="margin-top:5px;" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=hantsy" alt="hantsy" />
 </div>
 
